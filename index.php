@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bảng Cửu Chương Nằm Ngang</title>
+    <title>Bảng Cửu Chương</title>
     <style>
         * {
             margin: 0;
